@@ -16,7 +16,7 @@ Usage:
 """
 
 # pin number = (position of letter in alphabet - 1) * 32 + pin number
-# So, PD14 will be (4 - 1) * 32 + 14 = 110
+# So, PG6 will be (7 - 1) * 32 + 6 = 198
 
 # Orange Pi Zero Plus physical board pin to GPIO pin
 BOARD = {
