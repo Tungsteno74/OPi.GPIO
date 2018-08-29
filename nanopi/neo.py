@@ -13,7 +13,7 @@ Usage:
    import nanopi.neo
    from OPi import GPIO
 
-   GPIO.setmode(nanopi.neocore2.BOARD) or GPIO.setmode(nanopi.neo.BCM)
+   GPIO.setmode(nanopi.neo.BOARD) or GPIO.setmode(nanopi.neo.BCM)
    WARNING: BCM pinout MUST be tested, so it's not ready for production code.
 """
 
